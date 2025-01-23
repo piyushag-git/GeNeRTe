@@ -7,6 +7,6 @@ Advancements in language modelling over the last decade have significantly impro
 
 - The raw dataset for ZuCo can be found at: https://osf.io/q3zws/
 - Our processed training data can be found in the data folder.
-- Our training code can be found in the code folder.
+- Our model code can be found in the code folder.
 - Our results can be found in the results folder.
 - Checkpoints for GeNeRTe can be found in the model folder.
